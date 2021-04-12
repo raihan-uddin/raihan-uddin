@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# <p align="center">️ **Hello there, I'm Md. Raihan Uddin** </p>
+<p align="center">️<small>Enthusiast learner and explorer. Full time developer.</small></p>
 
-You can use the [editor on GitHub](https://github.com/raihan-uddin/raihan-uddin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<a href="https://img.shields.io/github/license/raihan-uddin/raihan-uddin">
+<img alt="Licence" src="https://img.shields.io/github/license/raihan-uddin/raihan-uddin?color=brightgreen&label=LICENCE&logo=MIT"/>
+</a>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/raihan-uddin/raihan-uddin?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</p>
+</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+</br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-### Markdown
+- I'm aspiring Full Stack App & Web Developer currently working on **PHP**.
+- I always like working in **Linux** Environment.
+- I'm a knowledge seeker & I love to learn new **Technologies**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## 📈 **Github Stats:**
 
-# Header 1
-## Header 2
-### Header 3
+<a href="https://github.com/raihan-uddin">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=raihan-uddin&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/raihan-uddin/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raihan-uddin&layout=compact&theme=blue-green" />
+</a>
 
-- Bulleted
-- List
+</br>
 
-1. Numbered
-2. List
+## 🛠️ **Languages & Tools:**
 
-**Bold** and _Italic_ and `Code` text
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![PHP](https://img.shields.io/badge/-Php-blue?style=for-the-badge&logo=php)
+![PYTHON](https://img.shields.io/badge/-Python-green?&style=for-the-badge&logo=python&ogoColor=white)
 
-[Link](url) and ![Image](src)
-```
+![PHPStrom](https://img.shields.io/badge/-Phpstorm-019733?style=for-the-badge&logo=phpstorm)
+![PyCharm](https://img.shields.io/badge/-Pycharm-019733?style=for-the-badge&logo=pycharm)
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 🌐 **Reach out to me:** ️
 
-### Jekyll Themes
+[<img src="https://img.shields.io/badge/LinkedIn-raihanuddin2-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-blackedition.me@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raihan-uddin/raihan-uddin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[comment]: <> ([<img src="https://img.shields.io/badge/Github-raihan-uddin-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github])
 
-### Support or Contact
+[comment]: <> ([<img src="https://img.shields.io/badge/Twitter-@raihanuddin-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter])
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- Links of Definitions -->
+
+[linkedin]: https://www.linkedin.com/in/raihan-uddin
+[gmail]: mailto:blackedition.me@gmail.com "Lets connect through email"
+[github]: https://github.com/raihan-uddin
+[licence]: https://github.com/raihan-uddin/raihan-uddin/LICENSE
+
+[comment]: <> ([twitter]: https://twitter.com/raihan.uddin22)
+[facebook]: https://facebook.com/raihan.uddin22
