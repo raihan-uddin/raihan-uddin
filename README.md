@@ -13,7 +13,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring Full Stack App & Web Developer currently working on **PHP**.
+- I'm aspiring Full Stack  Web Developer currently working on **PHP**.
 - I always like working in **Linux** Environment.
 - I'm a knowledge seeker & I love to learn new **Technologies**.
 
