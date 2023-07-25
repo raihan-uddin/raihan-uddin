@@ -3,9 +3,10 @@
 
 <p align="center">
 <a href="https://img.shields.io/github/license/raihan-uddin/raihan-uddin">
-<img alt="Licence" src="https://img.shields.io/github/license/raihan-uddin/raihan-uddin?color=brightgreen&label=LICENCE&logo=MIT"/>
-</a>
+<img alt="Licence" src="https://img.shields.io/github/license/raihan-uddin/raihan-uddin?color=brightgreen&label=LICENCE&logo=MIT"/></a>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/raihan-uddin/raihan-uddin?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<img src="https://komarev.com/ghpvc/?username=raihan-uddin&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-v" />
+
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -13,20 +14,32 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring Full Stack  Web Developer currently working on **PHP**.
+- I'm an aspiring Full Stack  Web Developer currently working on **PHP**.
 - I always like working in **Linux** Environment.
 - I'm a knowledge seeker & I love to learn new **Technologies**.
 
 ---
 
+
 ## 📈 **Github Stats:**
 
-<a href="https://github.com/raihan-uddin">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=raihan-uddin&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
-<a href="https://github.com/raihan-uddin/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raihan-uddin&layout=compact&theme=blue-green" />
-</a>
+<p align="center">
+  <a href="https://github.com/raihan-uddin">
+    <img width="33%" align="center" src="https://github-readme-stats.vercel.app/api?username=raihan-uddin&show_icons=true&include_all_commits=true&count_private=true">
+  </a>
+
+  <a href="https://github.com/raihan-uddin">
+    <img width="33%"  src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-uddin&" alt="raihan-uddin" />
+  </a>
+  <a href="https://github.com/raihan-uddin/github-readme-stats">
+    <img width="33%"  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=raihan-uddin&layout=compact" />
+  </a>
+</p>
+</br>
+
+## 📈 **Profile Trophy:**
+
+<p align="center"> <a href="https://github.com/raihan-uddin?tab=stars"><img src="https://github-profile-trophy.vercel.app/?username=raihan-uddin" alt="raihan-uddin" /></a> </p>
 
 </br>
 
